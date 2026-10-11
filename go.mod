@@ -1,0 +1,3 @@
+module github.com/task_tracker
+
+go 1.26.8
